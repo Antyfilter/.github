@@ -1,4 +1,4 @@
-# 🐜 Antyfilter - Free Internet 🕊
+# Antyfilter - Free Internet 🐜
 
 Antyfilter makes it easy to create effective VPN servers, giving anyone access to the open and free internet.
 
